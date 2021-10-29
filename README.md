@@ -2,6 +2,7 @@
 
 ## Project setup
 ```
+git clone https://github.com/lwaddlesl/frontend-test.git
 npm install
 ```
 
